@@ -1,0 +1,9 @@
+#question 1
+[a-zA-Z0-9_.]*[@](gmail.com|yahoo.com)
+
+
+
+
+
+#question 2
+^+91[6-9]{1}[0-9]{9}s
